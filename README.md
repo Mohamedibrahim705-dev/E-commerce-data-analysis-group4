@@ -100,7 +100,7 @@ bash   git clone https://github.com/Mohamedibrahim705-dev/E-commerce-data-analys
 
 ### 👥 Team Members
 
-1-Mohamed Ibrahim Abdelaziz - linkedin.com/in/mohamed-ibrahim55
+1-Mohamed Ibrahim Abdelaziz - https://www.linkedin.com/in/mohamed-ibrahim55
 
 2-Ehab El-Siad Mohamed - https://www.linkedin.com/in/ehab-elsayed-38221432b
 
