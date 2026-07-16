@@ -76,7 +76,9 @@ bash   git clone https://github.com/Mohamedibrahim705-dev/E-commerce-data-analys
 
 
 2.Restore the Pizza_DB dataset into SQL Server.
+
 3.Run the queries in the SQL file to reproduce the KPIs and analysis tables.
+
 4.Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
 
 
