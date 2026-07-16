@@ -98,11 +98,10 @@ bash   git clone https://github.com/Mohamedibrahim705-dev/E-commerce-data-analys
 
 ### 👥 Team Members
 
-
-Mohamed Ibrahim Abdelaziz – linkedin.com/in/mohamed-ibrahim55
-Ehab El-Siad Mohamed 
-Mohamed Samy Eid  
-Mamdouh Issa Al Hammadi Issa Mohammed 
+1-Mohamed Ibrahim Abdelaziz 
+2-Ehab El-Siad Mohamed 
+3-Mohamed Samy Eid  
+4-Mamdouh Issa Al Hammadi Issa Mohammed 
 
 
 ### 📄 License
