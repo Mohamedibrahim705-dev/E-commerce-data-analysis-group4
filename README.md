@@ -98,11 +98,18 @@ bash   git clone https://github.com/Mohamedibrahim705-dev/E-commerce-data-analys
 
 ### 👥 Team Members
 
-1-Mohamed Ibrahim Abdelaziz 
+1-Mohamed Ibrahim Abdelaziz
+
 2-Ehab El-Siad Mohamed 
+
 3-Mohamed Samy Eid  
+
 4-Mamdouh Issa Al Hammadi Issa Mohammed 
 
+### 📚 References
+-SQL for Businesses 
+
+-[Kaggle](https://kaggle.com)
 
 ### 📄 License
 
